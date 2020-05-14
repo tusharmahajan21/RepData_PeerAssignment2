@@ -2,7 +2,9 @@
 title: "Analysis of the Adverse Health and Economic Impacts of US Storms"
 author: "Tushar Mahajan"
 date: "5/14/2020"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ## 1: Synopsis
